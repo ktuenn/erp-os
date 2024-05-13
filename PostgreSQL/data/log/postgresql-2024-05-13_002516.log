@@ -1,0 +1,6 @@
+2024-05-13 00:25:16.508 +07 [7968] LOG:  database system was shut down at 2024-05-13 00:23:55 +07
+2024-05-13 00:25:16.571 +07 [7380] LOG:  database system is ready to accept connections
+2024-05-13 00:34:02.095 +07 [7368] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2024-05-13 00:34:02.096 +07 [6224] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
