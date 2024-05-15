@@ -1,0 +1,15 @@
+2024-05-14 21:37:45.494 +07 [5472] LOG:  database system was shut down at 2024-05-14 21:36:27 +07
+2024-05-14 21:37:45.599 +07 [7420] LOG:  database system is ready to accept connections
+2024-05-14 22:06:34.042 +07 [18224] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2024-05-14 22:06:34.043 +07 [17996] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2024-05-14 22:06:34.043 +07 [10092] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2024-05-14 22:06:34.044 +07 [10772] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2024-05-14 22:06:34.044 +07 [14164] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2024-05-14 22:06:34.050 +07 [8520] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2024-05-14 23:38:34.942 +07 [8440] LOG:  could not rename temporary statistics file "pg_stat_tmp/global.tmp" to "pg_stat_tmp/global.stat": Permission denied
